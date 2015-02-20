@@ -41,7 +41,7 @@ ellos @FIUPM continuó teniendo contenido de interés y seguidores activos.
 **Mucho hay que agradecerle a todos los miembros de DA su gestión durante todo
 este tiempo**. Sin embargo, esta idea chocaba con los principios originales de
 la cuenta que era ser completamente libre (otro día os cuento lo que pasó con
-[FIWIKI](http://www.fiwiki.org/wiki/P%C3%A1gina_principal)..).
+[FIWIKI](http://www.fiwiki.org/wiki/P%C3%A1gina_principal)...).
 
 Así fue como decidí que la mejor forma de mantener la cuenta viva, imparcial y
 útil era mediante un bot. ¡Qué mejor forma de mantener el espíritu libre de una
@@ -64,3 +64,8 @@ Recuerda que @FIUPM lo haces tú. Gracias por tu ayuda, esperamos que disfrutes
 de tu estancia en la facultad tanto como lo hicimos nosotros. ¡Ah! Y no te
 olvides de visitar [FIWIKI](http://www.fiwiki.org/wiki/P%C3%A1gina_principal),
 el portal libre de apuntes de la carrera.
+
+## Contacto
+
+Para insultos, críticas, ánimos, sugerencias, chistes, dudas, preguntas...
+escríbeme a [@Ferdy89](https://twitter.com/Ferdy89)
